@@ -8,7 +8,7 @@ To get started with this project, follow these steps:
 5. **Import the dataset**: Use the SQL scripts in the `basic`, `intermediate`, and `advanced` folders to create the necessary tables and import the cleaned dataset.
 
 ## Dataset
-The dataset used in this project is a CSV file named `hospital_data.csv`, which is stored in the `data` folder. This dataset contains the following information:
+The dataset used in this project is a CSV file named `Healthcare_data.csv`, which is stored in the `Data csv` folder. This dataset contains the following information:
 
 - Patient details (name, age, gender, blood type)
 - Medical conditions
